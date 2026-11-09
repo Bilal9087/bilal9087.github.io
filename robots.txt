@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace utilitynest.example with your real domain before launch.
+Sitemap: https://utilitynest.example/sitemap.xml
